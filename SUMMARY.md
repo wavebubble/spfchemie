@@ -15,7 +15,7 @@
     * [Vortrag](orbitalmodell/orbitale-und-hybridisierung/vortrag.md)
     * [Visualisierungen](orbitalmodell/orbitale-und-hybridisierung/visualisierungen.md)
     * [Teilchen im Orbitalmodell (VB) dargestellt](orbitalmodell/orbitale-und-hybridisierung/teilchen-im-orbitalmodell-vb-dargestellt.md)
-* [Nucleophile Substitution und Eliminierung](nucleophile-substitution-und-eliminierung.md)
+* [✏️ Nucleophile Substitution und Eliminierung](nucleophile-substitution-und-eliminierung.md)
 * [🍋 Stabilität von Säuren und Basen](stabilitat-von-sauren-und-basen/README.md)
   * [Löslichkeit von Säuren und Basen](stabilitat-von-sauren-und-basen/datenbanken.md)
   * [pKs-Werte](stabilitat-von-sauren-und-basen/pks-werte.md)
