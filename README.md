@@ -4,6 +4,10 @@
 [README (1).md](<README (1).md>)
 {% endcontent-ref %}
 
+{% content-ref url="nucleophile-substitution-und-eliminierung.md" %}
+[nucleophile-substitution-und-eliminierung.md](nucleophile-substitution-und-eliminierung.md)
+{% endcontent-ref %}
+
 {% content-ref url="stabilitat-von-sauren-und-basen/" %}
 [stabilitat-von-sauren-und-basen](stabilitat-von-sauren-und-basen/)
 {% endcontent-ref %}
