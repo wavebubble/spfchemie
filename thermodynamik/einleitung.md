@@ -1,5 +1,11 @@
 # Einleitung
 
+{% embed url="https://www.nanoo.tv/link/v/KgBDiGdu" %}
+Thermodynamics (Veritassium)
+{% endembed %}
+
+
+
 In vielen Häusern der Schweiz wird mit Gasheizungen geheizt. Methan wird dabei vollständig zu Kohlendioxid und Wasser verbrannt:
 
 $$\mathrm{CH}_4+2 \mathrm{O}_2 \rightarrow \mathrm{CO}_2+2 \mathrm{H}_2 \mathrm{O}$$
