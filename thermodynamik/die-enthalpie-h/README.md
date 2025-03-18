@@ -51,9 +51,27 @@ $$
 
 Das Kalorimeter hat einen vom Produzenten ermittelten Wirkungsgrad von $$\eta=0,810$$.
 
-Deshalb müssen wir die Wärmekapazität von Glas und Wasser noch durch den Wirkungsgrad dividieren (Korrektur Abfluss Wärme).
+Deshalb müssen wir die Wärmekapazität von Glas und Wasser noch durch den Wirkungsgrad dividieren:
 
-(z.B. $$C_{\text {eff }}=\frac{C_{\text {Kalorimeter }}}{\eta_{\text {Kalorimeter }}}=\frac{3432 J / K}{0,810}=4237 J / K$$
+(z.B. $$C_{\text {eff }}=\frac{C_{\text {Kalorimeter }}}{\eta_{\text {Kalorimeter }}}=\frac{3432 J / K}{0,810}=4237 J / K$$)
+
+### Berechnung es Verbrennungswerts
+
+Der Brennwert berechnet sich wie folgt:&#x20;
+
+$$
+\text { Brennwert }=\frac{-\Delta H}{m(\text { verbr.Olivenöl })} \cdot 100 g
+$$
+
+
+
+
+
+
+
+
+
+
 
 
 
