@@ -31,7 +31,49 @@ Häufig werden in Tabellen die Entalpien von Stoffen mit Hf°bezeichnet . Damit 
 
 ### :goggles:Experiment
 
-1.5 Gramm Olivenöl wird im Kalorimeter verbrannt und die Verbrennungsenthalpie bestimmt.
+1.5 Gramm Olivenöl wird im Kalorimeter in Anwesenheit von zugeführtem reinen Sauerstoff verbrannt und der Brennwert bestimmt.
+
+Um den Brennwert bestimmen zu können, müssen wir noch die Wärmekapazität des Glases und des Wassers kennen.
+
+$$
+\begin{equation}
+c_{\text {Glas }}=0,800 J / g \cdot K \text { und } c_{\text {Wasser }}=4,185 J / g \cdot K
+\end{equation}
+$$
+
+Die Wärmekapazität des Kalorimeters und des Wassers zusammen ist:&#x20;
+
+$$
+C_{\text {Kalorimeter }}=m(\text { Kalorimeter leer }) \cdot c_{\text {Glas }}+m(\text { Wasser }) \cdot c_{\text {Wasser }}
+$$
+
+(bspw. $$=694,3 g \cdot 0,800 J / g K+687,4 g \cdot 4,185 J / g K$$)
+
+Das Kalorimeter hat einen vom Produzenten ermittelten Wirkungsgrad von $$\eta=0,810$$.
+
+Deshalb müssen wir die Wärmekapazität von Glas und Wasser noch durch den Wirkungsgrad dividieren (Korrektur Abfluss Wärme).
+
+(z.B. $$C_{\text {eff }}=\frac{C_{\text {Kalorimeter }}}{\eta_{\text {Kalorimeter }}}=\frac{3432 J / K}{0,810}=4237 J / K$$
+
+
+
+### Die Verbrennungsenthalpie von Olivenöl
+
+Die Verbrennungsenthalpie von Olivenöl wird wie folgt berechnet:
+
+$$
+-\Delta H=C_{eff} \cdot \Delta T
+$$
+
+
+
+
+
+
+
+
+
+
 
 {% tabs %}
 {% tab title="Versuchsprotokoll 19.03.2025" %}
