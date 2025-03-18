@@ -33,8 +33,25 @@ Häufig werden in Tabellen die Entalpien von Stoffen mit Hf°bezeichnet . Damit 
 
 1.5 Gramm Olivenöl wird im Kalorimeter verbrannt und die Verbrennungsenthalpie bestimmt.
 
-**Versuchsprotokoll vom 6.04.2023 (3. Versuch**)
+{% tabs %}
+{% tab title="Versuchsprotokoll 19.03.2025" %}
+| Was                        | Wert |
+| -------------------------- | ---- |
+| m(Tiegel)\_leer            |      |
+| m(Tiegel)\_mitÖl           |      |
+| m(Tiegel)\_nachVerbrennung |      |
+| m(verbranntes Öl)          |      |
+| T1                         |      |
+| T2                         |      |
+| dT                         |      |
+| m(Kalorimeter leer)        |      |
+| m(Kalorimeter voll)        |      |
+| m(Wasser)                  |      |
+| c(Kalorimeter)             |      |
+| c(Wasser)                  |      |
+{% endtab %}
 
+{% tab title="Versuchsprotokoll 06.04.2023" %}
 | Was                        | Wert       |
 | -------------------------- | ---------- |
 | m(Tiegel)\_leer            | 17.28 g    |
@@ -49,12 +66,15 @@ Häufig werden in Tabellen die Entalpien von Stoffen mit Hf°bezeichnet . Damit 
 | m(Wasser)                  | 612.28 g   |
 | c(Kalorimeter)             | 0.8 J/gK   |
 | c(Wasser)                  | 4.185 J/gK |
+|                            |            |
 
 Die Verbrennung von 1.2 Gramm Olivenöl liefert also:
 
 H = ((613.28g x 4.19J/gK + 812.44g x 0.8J/gK) x 15K)/1.2g = 40244.94 J = 40.245 kJ
 
 Die Verbrennung von 100 Gramm Olivenöl würde (100/1.2)x40.245 kJ liefern, also **3353.75 kJ/100g**. Der Referenzwert liegt bei **3400 kJ/100g** ist also sehr nahe am experimentell ermittelten Wert.
+{% endtab %}
+{% endtabs %}
 
 {% embed url="https://www.nanoo.tv/link/v/bMezqtZP" %}
 
