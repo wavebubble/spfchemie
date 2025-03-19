@@ -53,25 +53,7 @@ Das Kalorimeter hat einen vom Produzenten ermittelten Wirkungsgrad von $$\eta=0,
 
 Deshalb müssen wir die Wärmekapazität von Glas und Wasser noch durch den Wirkungsgrad dividieren:
 
-(z.B. $$C_{\text {eff }}=\frac{C_{\text {Kalorimeter }}}{\eta_{\text {Kalorimeter }}}=\frac{3432 J / K}{0,810}=4237 J / K$$)
-
-### Berechnung es Verbrennungswerts
-
-Der Brennwert berechnet sich wie folgt:&#x20;
-
-$$
-\text { Brennwert }=\frac{-\Delta H}{m(\text { verbr.Olivenöl })} \cdot 100 g
-$$
-
-
-
-
-
-
-
-
-
-
+$$C_{\text {eff }}=\frac{C_{\text {Kalorimeter }}}{\eta_{\text {Kalorimeter }}}=\frac{3432 J / K}{0,810}=4237 J / K$$
 
 
 
@@ -83,15 +65,15 @@ $$
 -\Delta H=C_{eff} \cdot \Delta T
 $$
 
+Die Zündenergie (ca. 300 J) und die Verbrennungsenthalphie des Papiers müssten noch abgezogen werden.
 
+### Berechnung es Verbrennungswerts
 
+Der Brennwert ist die Reaktionsenthalphie pro definierte Menge Olivenöl.
 
-
-
-
-
-
-
+$$
+\text { Brennwert }=\frac{-\Delta H}{m \text { (verbr.Olivenöl) }} \cdot 100 g
+$$
 
 {% tabs %}
 {% tab title="Versuchsprotokoll 19.03.2025" %}
