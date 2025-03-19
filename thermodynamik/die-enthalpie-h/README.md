@@ -77,20 +77,20 @@ $$
 
 {% tabs %}
 {% tab title="Versuchsprotokoll 19.03.2025" %}
-| Was                        | Wert |
-| -------------------------- | ---- |
-| m(Tiegel)\_leer            |      |
-| m(Tiegel)\_mitÖl           |      |
-| m(Tiegel)\_nachVerbrennung |      |
-| m(verbranntes Öl)          |      |
-| T1                         |      |
-| T2                         |      |
-| dT                         |      |
-| m(Kalorimeter leer)        |      |
-| m(Kalorimeter voll)        |      |
-| m(Wasser)                  |      |
-| c(Kalorimeter)             |      |
-| c(Wasser)                  |      |
+| Was                        | Wert       |
+| -------------------------- | ---------- |
+| m(Tiegel)\_leer            | 16.16 g    |
+| m(Tiegel)\_mitÖl           | 17.48 g    |
+| m(Tiegel)\_nachVerbrennung | 16.16 g    |
+| m(verbranntes Öl)          | 1.32 g     |
+| T1                         | 22 °C      |
+| T2                         | 34.6 °C    |
+| dT                         | 12.6 °C    |
+| m(Kalorimeter leer)        | 825.53 g   |
+| m(Kalorimeter voll)        | 1499.69 g  |
+| m(Wasser)                  | 674.16 g   |
+| c(Kalorimeter)             | 4237 J/K   |
+| c(Wasser)                  | 4.185 J/gK |
 {% endtab %}
 
 {% tab title="Versuchsprotokoll 06.04.2023" %}
