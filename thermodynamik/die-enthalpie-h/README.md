@@ -110,6 +110,8 @@ $$
 | c(Wasser)                  | 4.185 J/gK |
 |                            |            |
 
+
+
 Die Verbrennung von 1.2 Gramm Olivenöl liefert also:
 
 H = ((613.28g x 4.19J/gK + 812.44g x 0.8J/gK) x 15K)/1.2g = 40244.94 J = 40.245 kJ
@@ -118,5 +120,6 @@ Die Verbrennung von 100 Gramm Olivenöl würde (100/1.2)x40.245 kJ liefern, also
 {% endtab %}
 {% endtabs %}
 
-{% embed url="https://www.nanoo.tv/link/v/bMezqtZP" %}
-
+{% hint style="success" %}
+Die Verbrennung von 1.32 g Olivenöl lieferte einen Brennwert von 41 kJ. 100g Olivenöl würden (100g/1.32g)x41 kJ, also 3106 kJ liefern.
+{% endhint %}
