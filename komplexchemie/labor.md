@@ -1,5 +1,6 @@
 ---
 description: 'Quelle: Urs Wuthier'
+hidden: true
 ---
 
 # 🥼 Labor

@@ -55,6 +55,8 @@ Es gibt zwei d-Orbitale, die ihre grösste Elektronendichte in Richtung der x,y,
 
 ## Kristallfeldtheorie
 
+
+
 Im Mittelpunkt der Betrachtung steht das Zentralteilchen. Es ist von einem elektrostatischen Feld, dem "Kristallfeld", umgeben. Bei der Annäherung eines Liganden, der negativ geladen ist oder negativ polarisiert ist, kommt es zunächst zu einer Abstossung, d. h., die potentielle Energie steigt an. Wegen der Form der d-Orbitale des Zentralteilchens ("Elektronenlücken") hängt die Abstossung von der Richtung ab, aus der die Liganden kommen. Es gibt Ladungshäufungen und Ladungslücken. Der Ligand wird beim Einklinken zur Verminderung der potentiellen Energie in eine Lücke gedrängt.
 
 Wir wollen das etwas genauer am Beispiel der oktaedrischen Komplexe von Eisen(II) erläutern.
@@ -101,6 +103,8 @@ Eine derartige Auflistung wird **spektrochemische Reihe** genannt. Die Grösse v
 Bei der Kristallfeldtheorie werden die Bindungen zwischen Zentralteilchen und Liganden als rein ionisch angenommen. Damit kann man zwar vieles erklären, nicht aber die spektroskopische Ligandenreihe. Es ist einzusehen, dass das $$F^-$$-Ion als kleine Punktladung ein stärkeres elektrostatisches Feld als ein $$Br^-$$-Ion und eine größere Aufspaltung D bewirkt. Wie erklärt man dann aber die Auswirkung von $$NH_3$$ auf die inneren Orbitale? So ist das grüne $$\left[\mathrm{CoF}_6\right]^{3^{-}}$$ ein Outer-orbital- bzw. High-spin-Komplex, das gelbe $$\left[\mathrm{Co}\left(\mathrm{NH}_3\right)_6\right]^{3+}$$ dagegen ein Inner-orbital- bzw. Low-spin-Komplex.
 
 Man muss offensichtlich auch die energetische Wechselwirkung der Molekülorbitale des Liganden mit den Orbitalen des Zentral-Ions und die Bildung der bindenden, nichtbindenden und antibindenden s-Molekülorbitale (MO) der gesamten Komplexeinheit mit berücksichtigen. Das tut die **Ligandenfeldtheorie**, auf die wir in dieser Webseitensammlung nicht weiter eingehen wollen. Kurzgesagt ist sie aber nichts anderes als die Anwendung der Regeln der MO-Theorie auf die Bildung von Komplexen.
+
+{% embed url="https://www.nanoo.tv/link/v/ZPNxReBU" %}
 
 \
 
