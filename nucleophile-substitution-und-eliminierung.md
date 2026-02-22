@@ -1,4 +1,5 @@
 ---
+hidden: true
 cover: .gitbook/assets/Bildschirmfoto 2025-02-23 um 3.45.56 PM.png
 coverY: 0
 ---
@@ -27,7 +28,7 @@ Eine Abgangsgruppe ist ein Substituent, der seine Bindungselektronen anzieht und
 
 ## Übung zu SN1, SN2
 
-{% file src=".gitbook/assets/Aufgaben zu SN1 und SN2.pdf" %}
+{% file src=".gitbook/assets/Aufgaben zu SN1 und SN2_2025.pdf" %}
 
 
 
