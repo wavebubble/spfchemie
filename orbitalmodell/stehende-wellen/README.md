@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/Bildschirmfoto 2022-03-01 um 22.21.28.png
+cover: ../../.gitbook/assets/Bildschirmfoto 2022-03-01 um 22.21.28.png
 coverY: 0
 ---
 
@@ -27,7 +27,7 @@ Führe die Experimente in der folgenden 360° - Tour durch. **Wichtig**: Nutze f
 
 ### Was ist eine Welle?
 
-![](<../../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (26).png>)
 
 
 
@@ -45,7 +45,7 @@ Die initiale Bewegung pflanzt sich also weiter fort.
 
 Oben haben wir gesehen, wie man einen Wellenimpuls entlang eines Seils sendet, indem man seine Hand einmal auf und ab bewegt. Wie wäre es, wenn man seine Hand weiterhin regelmässig auf und ab bewegt und dabei um den zentralen Punkt schwingt? Das Bild zeigt, wie dies mit einer Sprungfeder gemacht wird: (Eine Sprungfeder wird oft zur Beobachtung von Wellen verwendet, weil sie sich viel langsamer ausbreitet als ein Seil). Dieses Bild zeigt eine kontinuierliche Welle, nicht einen Impuls. Diese Welle hat gleichmäßig verteilte Wellenberge (C) und Wellentäler (T). Die Wellenform, die Sie hier sehen, wird Sinuswelle genannt. Der Abstand zwischen einem beliebigen Punkt auf einer Welle und dem nächsten identischen Punkt auf dieser Welle wird als Wellenlänge bezeichnet. Das Symbol für die **Wellenlänge ist λ** (der griechische Buchstabe lambda).
 
-<figure><img src="../../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
 ### Beschreibung einer Welle
 
@@ -59,12 +59,11 @@ Oben haben wir gesehen, wie man einen Wellenimpuls entlang eines Seils sendet, i
 
 Das folgende Bild zeigt die Ausbreitung einer Welle die durch eine sich bewegende Spitze generiert wird.
 
-![](<../../../.gitbook/assets/image (62).png>)
+![](<../../.gitbook/assets/image (62).png>)
 
-Wellen breiten sich im obigen Versuch konzentrisch, ausgehend von der Schwingungsquelle aus. Eine Obenansicht würde (falls in der Mitte des Wassers angeregt) so aussehen:\
+Wellen breiten sich im obigen Versuch konzentrisch, ausgehend von der Schwingungsquelle aus. Eine Obenansicht würde (falls in der Mitte des Wassers angeregt) so aussehen:<br>
 
-
-<figure><img src="../../../.gitbook/assets/image (32).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -85,7 +84,7 @@ $$\lambda=\frac{32 \mathrm{~cm}}{8}=4.0 \mathrm{~cm}$$
 
 Betrachten Sie diese Schnappschüsse einer Welle, die an einem Seil entlangläuft:
 
-<figure><img src="../../../.gitbook/assets/image (150).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (150).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Die 5 Schnappschüsse sind zeitlich gleich weit voneinander entfernt.
 
@@ -158,7 +157,7 @@ Können Sie erkennen, warum diese Antwort 3 signifikante Stellen hat? Das liegt 
 
 Haben Wellen mit kleiner und grosser Amplitude die gleiche Energie? Nein - es ist klar, dass Wellen mit grösserer Amplitude mehr Energie haben. Die grösseren Wellen in Stürmen beschädigen oft Boote und Hütten am Meer.
 
-<figure><img src="../../../.gitbook/assets/image (148).png" alt="" width="188"><figcaption><p>Welle B ist doppelt so hoch wie Welle A</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (148).png" alt="" width="188"><figcaption><p>Welle B ist doppelt so hoch wie Welle A</p></figcaption></figure>
 
 Wenn man die Amplitude verdoppelt, verdoppelt sich dann auch die Energie? Nein - sehen Sie sich diese beiden Diagramme von Wasserwellen an: Genau wie die Wellen auf dem Seil oben haben sie die gleiche Wellenlänge, aber die untere Welle hat die doppelte Amplitude. Um die Energie zu berechnen, die in einem 1-Meter-Abschnitt jeder dieser Wellen gespeichert ist, können wir die Gleichung der potenziellen Energie anwenden:
 
@@ -172,7 +171,7 @@ Kannst du ein Muster in den Amplituden und Energien erkennen?
 
 ### Stehende Wellen mit der Phet-Simulation erkunden
 
-{% file src="../../../.gitbook/assets/Seilwelle_PhET_SIM_Stehende_Welle.pdf" %}
+{% file src="../../.gitbook/assets/Seilwelle_PhET_SIM_Stehende_Welle.pdf" %}
 
 {% embed url="https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_de.html" %}
 

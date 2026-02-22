@@ -9,7 +9,3 @@ description: 'Quelle Arbeitsblätter: ETH'
 {% embed url="https://www.youtube.com/watch?v=Os9Xx9KVMqE" %}
 
 ### Das Elektron als Welle beschrieben
-
-
-
-{% file src="../.gitbook/assets/Kap3_Welle.pdf" %}
