@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Orbitale und Hybridisierung
 
 ## Einführung <a href="#bookmark0" id="bookmark0"></a>
