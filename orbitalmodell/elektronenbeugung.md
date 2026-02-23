@@ -1,6 +1,5 @@
 ---
 description: 'Quelle Arbeitsblätter: ETH'
-hidden: true
 ---
 
 # Elektronenbeugung

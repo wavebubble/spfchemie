@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Der photoelektrische Effekt
 
 ### Experiment
