@@ -21,9 +21,9 @@ _Ziel dieses Kapitels ist es, dich auf ein neues Modell für Elektronen in Atome
 Führe die Experimente in der folgenden 360° - Tour durch. **Wichtig**: Nutze für die Deutung der Experimente auch die Simulation
 {% endhint %}
 
-{% embed url="https://www.leifiphysik.de/mechanik/mechanische-wellen/versuche/stehende-welle-simulation" %}
+{% embed url="https://www.thinglink.com/scene/1554896218897776642" %}
 
-{% embed url="https://www.thinglink.com/card/1554896218897776642" %}
+{% embed url="https://www.leifiphysik.de/mechanik/mechanische-wellen/versuche/stehende-welle-simulation" %}
 
 ### Was ist eine Welle?
 
