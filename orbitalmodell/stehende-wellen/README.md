@@ -76,7 +76,7 @@ Im obigen Diagramm, das kreisförmige Wellenfronten zeigt, beträgt der Durchmes
 
 {% tab title="Lösung" %}
 Aus dem Diagramm geht hervor, dass der Abstand von der einen Seite des Diagramms zur anderen Seite 8 Wellenlängen beträgt.\
-$$\lambda=\frac{32 \mathrm{~cm}}{8}=4.0 \mathrm{~cm}$$
+$$\lambda=\frac{32 \mathrm{~cm}}{4}=8.0 \mathrm{~cm}$$
 {% endtab %}
 {% endtabs %}
 
