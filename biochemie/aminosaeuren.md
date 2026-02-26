@@ -122,8 +122,7 @@ Reihenfolge der Lückenwörter: Verbindung – Kohlenstoffatom – proteinogenen
 
 </details>
 
-Aminosäuren sind chemische \_\_\_\_\_\_\_\_\_\_\_\_ , welche sowohl mindestens eine Carboxyl- als auch mindestens eine Aminogruppe besitzen. Sind diese am selben \_\_\_\_\_\_\_\_\_\_\_\_ gebunden, werden sie als a-Aminosäure bezeichnet. Die \_\_\_\_\_\_\_\_\_\_\_\_\_ Aminosäuren besitzen alle die gleiche Grundstruktur. Ein zentrales a-Kohlenstoffatom, an das folgende vier Substituenten gebunden sind:\
-
+Aminosäuren sind chemische \_\_\_\_\_\_\_\_\_\_\_\_ , welche sowohl mindestens eine Carboxyl- als auch mindestens eine Aminogruppe besitzen. Sind diese am selben \_\_\_\_\_\_\_\_\_\_\_\_ gebunden, werden sie als a-Aminosäure bezeichnet. Die \_\_\_\_\_\_\_\_\_\_\_\_\_ Aminosäuren besitzen alle die gleiche Grundstruktur. Ein zentrales a-Kohlenstoffatom, an das folgende vier Substituenten gebunden sind:<br>
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -164,4 +163,8 @@ Arginin, Lysin und Histidin besitzen in ihren Seitenketten einen Protonenakzepto
 Cystein und Methionin enthalten beide ein Schwefelatom. Beim Abbau von Proteinen durch Mikroorganismen kann Schwefelwasserstoff aus diesen schwefelhaltigen Aminosäuren entstehen.
 
 </details>
+
+### Aminosäuren-Quiz
+
+{% embed url="https://plueckthun.bioc.uzh.ch/nanowelt/Nanomaschinen/02_ABC/AminosaeurenJmol/index.html" %}
 
