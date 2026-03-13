@@ -4,7 +4,12 @@
 
 * chemiespf.kszi.dev
 * CfD S.959-966
+
+{% file src="../../.gitbook/assets/aminosäurendummies.pdf" %}
+
 * Kapitel 10.3 S.372-379 ohne optische Aktivität
+
+{% file src="../../.gitbook/assets/aminosundproteine.pdf" %}
 
 ### Lernziele
 
