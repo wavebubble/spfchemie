@@ -36,13 +36,11 @@ Wenn das Reaktionsgemisch bei der Reaktion $$\mathrm{N}_2(g)+3 \mathrm{H}_2(g) \
 
 <figure><img src="../../../.gitbook/assets/Bildschirm­foto 2023-04-04 um 22.22.43.png" alt=""><figcaption></figcaption></figure>
 
-Die freie Enthalpie ist ein Mass für die Freiwilligkeit oder Spontanität einer Reaktion. Diese Spontanität kann von der Enthalpie oder der Entropie beeinflusst werden. Es sind vier Fälle unterscheidbar:\
-
+Die freie Enthalpie ist ein Mass für die Freiwilligkeit oder Spontanität einer Reaktion. Diese Spontanität kann von der Enthalpie oder der Entropie beeinflusst werden. Es sind vier Fälle unterscheidbar:<br>
 
 <figure><img src="../../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
-Oder noch kompakter:\
-
+Oder noch kompakter:<br>
 
 <figure><img src="../../../.gitbook/assets/image (85).png" alt="" width="375"><figcaption><p>Das Kreuz bedeutet, dass die freie Enthalpie unabhängig von der Temperatur nie negative Werte annimmt. Das Häkchen bedeutet, dass die freie Enthalpie immer negativ ist.</p></figcaption></figure>
 

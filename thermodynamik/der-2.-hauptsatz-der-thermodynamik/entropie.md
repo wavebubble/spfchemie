@@ -93,8 +93,7 @@ Berechnen Sie die Entropieänderung der Umgebung, wenn 1 mol Eis auf Ihrer Hand 
 {% endtab %}
 
 {% tab title="Lösung" %}
-Das Ausmass des Wärmeverlusts Ihrer Hand entspricht jenem des Wärmegewinns des Eiswürfels, weist jedoch das entgegengesetzte Vorzeichen auf, –6,01 μ 10 3 J/mol. Daher beträgt die Entropieänderung der Umgebung:\
-
+Das Ausmass des Wärmeverlusts Ihrer Hand entspricht jenem des Wärmegewinns des Eiswürfels, weist jedoch das entgegengesetzte Vorzeichen auf, –6,01 μ 10 3 J/mol. Daher beträgt die Entropieänderung der Umgebung:<br>
 
 $$\Delta S_{\text {Umgebung }}=\frac{Q_{\text {rev }}}{T}=\frac{(1 \mathrm{~mol})\left(-6,01 \times 10^3 \mathrm{~J} / \mathrm{mol}\right)}{310 \mathrm{~K}}=-19,4 \frac{\mathrm{J}}{\mathrm{K}}$$
 

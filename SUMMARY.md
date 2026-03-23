@@ -80,6 +80,8 @@
   * [Aspirin (Acetylsalicylsäure)](arzneimittel/aspirin-acetylsalicylsaeure.md)
 * [🧬 Biochemie](biochemie/README.md)
   * [Aminosäuren](biochemie/aminosaeuren.md)
+  * [Proteine](biochemie/proteine/README.md)
+    * [Das rätselhafte Protein](biochemie/proteine/das-ratselhafte-protein.md)
 * [⚗️ Labor](synthesen/README.md)
   * [Checkliste Laborbericht](labor/checkliste-laborbericht.md)
   * [Synthese von Rheosmin (Himbeerketon)](synthesen/synthese-von-rheosmin-himbeerketon/README.md)
@@ -128,8 +130,6 @@
 ## Archiv
 
 * [Aminosäuren (Labor)](archiv/aminosauren-labor.md)
-* [Proteine](archiv/proteine/README.md)
-  * [Das rätselhafte Protein](archiv/proteine/das-ratselhafte-protein.md)
 * [Enzyme](archiv/enzyme/README.md)
   * [Theorie](archiv/enzyme/theorie.md)
   * [Aufgaben](archiv/enzyme/aufgaben.md)

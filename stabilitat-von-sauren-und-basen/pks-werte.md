@@ -24,7 +24,7 @@ Das Methyl-Anion reagiert mit Wasser zu Methan und Hydroxid-Ionen. Methan hat ei
 {% tab title="Übung" %}
 Betrachte die folgende pKs- Tabelle. Versuche, die unterschiedlichen pKs-Werte auf molekularer Ebene zu begründen.
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Lösung" %}
@@ -36,13 +36,13 @@ Betrachte die folgende pKs- Tabelle. Versuche, die unterschiedlichen pKs-Werte a
 
 Betrachten wir die pKs-Werte der Hydride der ersten Periode:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Hydride der ersten Periode</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Hydride der ersten Periode</p></figcaption></figure>
 
 Offenbar sinkt der pKs-Wert mit zunehmender Elektronegativität des an das azide H-Atom gebundene Element. HF ist also die stärkste Säure in dieser Gruppe.
 
 Betrachten wir jetzt die Hauptgruppe 7:
 
-<figure><img src="../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption><p>Hydride der Hauptgruppe 7</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption><p>Hydride der Hauptgruppe 7</p></figcaption></figure>
 
 Erstaunlicherweise nimmt die Säurestärke nach unten zu, obwohl die Elektronegativität abnimmt. Der Grund liegt in der abnehmenden Bindungsstärke. Die Elektronen der konjugierten Base können zudem über einen grösseren Raum verteilt werden, was stabilisierend wirkt (das kennen wir bereits von der Anregung von Molekülen mit delokalisierten Systemen :smile:).
 
@@ -50,15 +50,15 @@ Erstaunlicherweise nimmt die Säurestärke nach unten zu, obwohl die Elektronega
 
 Betrachte die folgenden Chlorsäuren:
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Chlorsäuren</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>Chlorsäuren</p></figcaption></figure>
 
 Mit jedem Sauerstoff-Atom, das dazukommt, wird das Anion stabilisiert, weil die Elektronen über mehrere Atome delokalisiert werden.
 
-<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Die negative Ladung des Perchlorat-Anions wird über alle vier Sauerstoff-Atome delokalisiert</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Die negative Ladung des Perchlorat-Anions wird über alle vier Sauerstoff-Atome delokalisiert</p></figcaption></figure>
 
 Wir können das Perchlorat-Anion deshalb auch so zeichnen:
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption><p>Das Perchlorat-Anion. Gestrichtelte Linienn zeigen die Delokalisierung</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>Das Perchlorat-Anion. Gestrichtelte Linienn zeigen die Delokalisierung</p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Übung" %}
@@ -66,10 +66,9 @@ Warum ist Ethanol eine schwächere Säure als Essigsäure?
 {% endtab %}
 
 {% tab title="Lösung" %}
-Im Acetat-Ion können die Elektronen besser delokalisiert werden:\
+Im Acetat-Ion können die Elektronen besser delokalisiert werden:<br>
 
-
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -79,10 +78,9 @@ Ist Cyclohexanol oder Phenol eine stärkere Säure?
 {% endtab %}
 
 {% tab title="Lösung" %}
-Cyclohexanol hat einen pKs-Wert von 16, Phenol einen pKs-Wert von 10. Bei Cyclohexanol sind die Elektronen auf das Sauerstoff-Atom verteilt, bei Phenol über den gesamten Ring delokalisiert:\
+Cyclohexanol hat einen pKs-Wert von 16, Phenol einen pKs-Wert von 10. Bei Cyclohexanol sind die Elektronen auf das Sauerstoff-Atom verteilt, bei Phenol über den gesamten Ring delokalisiert:<br>
 
-
-<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -92,9 +90,8 @@ Phenol hat einen pKs von 10. _p_-Nitrophenol hat einen pKs von 7.14. Wie erklär
 {% endtab %}
 
 {% tab title="Lösung" %}
-Die Elektronen in _p_-Nitrophenol können über ein grösseres System verteilt werden:\
+Die Elektronen in _p_-Nitrophenol können über ein grösseres System verteilt werden:<br>
 
-
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}

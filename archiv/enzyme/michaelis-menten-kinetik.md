@@ -57,8 +57,7 @@ KM: Michaelis-Menten-Konstante; bei dieser Substratkonzentration läuft die Reak
 
 
 
-Die experimentell ermittelten Steigungen der Geraden kann man gegen die Harnstoff-Konzentrationen auftragen und erhält die folgende Sättigungskurve:\
-
+Die experimentell ermittelten Steigungen der Geraden kann man gegen die Harnstoff-Konzentrationen auftragen und erhält die folgende Sättigungskurve:<br>
 
 <figure><img src="../../.gitbook/assets/image (164).png" alt="" width="384"><figcaption></figcaption></figure>
 

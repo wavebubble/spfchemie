@@ -21,15 +21,13 @@ Beispiele:\
 \- Natriumhydrogencarbonat\
 \- Natriumcarbonat
 
-Schwache Basen wirken als Pufferbasen indem sie mit der Salzsäure reagieren:\
-
+Schwache Basen wirken als Pufferbasen indem sie mit der Salzsäure reagieren:<br>
 
 $$\mathrm{NaHCO}_{3(\mathrm{aq})}+\mathrm{HCl}_{(\mathrm{aq})} \longrightarrow \mathrm{NaCl}_{(\mathrm{aq})}+\mathrm{CO}_{2(\mathrm{~g})}+\mathrm{H}_2 \mathrm{O}$$
 
 </details>
 
-Mit Antiacida werden Symptome wie das "saure Aufstossen" behandelt. Natriumhydrogencarbonat (auch: Natron, Natriumbicarbonat) sollte aber nicht mehr alleine verwendet werden, da es sehr rasch mit Salzsäure zu $$CO_2$$ reagiert und der pH-Wert zu rasch ansteigt, was wiederum zu einer vermehrten Ausschüttung von Gastrin, einem Hormon, führt, das die Sekretion von Salzsäure auslöst. Bis in die 70er-Jahre wurde Natron aber als Bestandteil von "Bullrich Salz" vertrieben.\
-
+Mit Antiacida werden Symptome wie das "saure Aufstossen" behandelt. Natriumhydrogencarbonat (auch: Natron, Natriumbicarbonat) sollte aber nicht mehr alleine verwendet werden, da es sehr rasch mit Salzsäure zu $$CO_2$$ reagiert und der pH-Wert zu rasch ansteigt, was wiederum zu einer vermehrten Ausschüttung von Gastrin, einem Hormon, führt, das die Sekretion von Salzsäure auslöst. Bis in die 70er-Jahre wurde Natron aber als Bestandteil von "Bullrich Salz" vertrieben.<br>
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

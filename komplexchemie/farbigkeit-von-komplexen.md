@@ -106,8 +106,7 @@ Man muss offensichtlich auch die energetische Wechselwirkung der Molekülorbital
 
 {% embed url="https://www.nanoo.tv/link/v/ZPNxReBU" %}
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/image (118).png" alt=""><figcaption><p><em>Termschema von oktaedrischen Komplexen nach der Ligandenfeldtheorie</em></p></figcaption></figure>
 

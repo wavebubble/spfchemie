@@ -26,8 +26,7 @@ hört sie allerdings bereits auf, spontan zu sein und die umgehrte Reaktion, die
 
 $$2 \mathrm{NH}_3(\mathrm{~g}) \longrightarrow 3 \mathrm{H}_2(\mathrm{~g})+\mathrm{N}_2(\mathrm{~g})$$
 
-wird spontan.\
-
+wird spontan.<br>
 
 </details>
 

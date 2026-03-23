@@ -400,8 +400,7 @@ S
 
 <summary>Antworten zu den Fragen</summary>
 
-1. <mark style="color:green;">Aus der Ausrichtung kann man schließen, dass sich die Längen der Rhodopsin-Sequenzen der 21 ausgewählten Arten zwischen 301 und 369 Aminosäuren variieren. Die meisten Sequenzen haben eine Länge von entweder 348 oder 354 Aminosäuren und zeigen eine hohe Ähnlichkeit. Die auffälligsten Unterschiede finden sich bei den Sequenzen von Drosophila melanogaster und Lacunicambarus ludovicianus.</mark>\
-
+1. <mark style="color:green;">Aus der Ausrichtung kann man schließen, dass sich die Längen der Rhodopsin-Sequenzen der 21 ausgewählten Arten zwischen 301 und 369 Aminosäuren variieren. Die meisten Sequenzen haben eine Länge von entweder 348 oder 354 Aminosäuren und zeigen eine hohe Ähnlichkeit. Die auffälligsten Unterschiede finden sich bei den Sequenzen von Drosophila melanogaster und Lacunicambarus ludovicianus.</mark><br>
 2. <mark style="color:green;">Die Rhodopsin-Sequenz von Drosophila melanogaster besitzt die längste Aminosäuresequenz mit insgesamt 369 Aminosäuren.</mark>
 3. <mark style="color:green;">Es gibt konservierte Reste oder Sequenzteile, die in allen Arten vorhanden sind? Gibt es einige Teile, die nur in einer oder wenigen Arten gefunden werden?</mark>
 

@@ -1,3 +1,3 @@
 # Vortrag
 
-{% file src="../../.gitbook/assets/orbitalmodell.pdf" %}
+{% file src="../../.gitbook/assets/orbitalmodell (1).pdf" %}

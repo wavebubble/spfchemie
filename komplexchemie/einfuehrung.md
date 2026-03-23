@@ -14,8 +14,7 @@ Löst man Salze in Wasser, so werden die ursprünglichen Coulomb-Kräfte zwisch
 
 Eisenchlorid-Lösung ist gelblich, Kaliumthiocyanat-Lösung ist farblos.
 
-Beim Mischen bildet sich eine dunkelrote Lösung:\
-
+Beim Mischen bildet sich eine dunkelrote Lösung:<br>
 
 <figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
@@ -34,8 +33,7 @@ $$
 Mit den eckigen Klammer geben wir an, dass es sich um einen Komplex handelt mit $$Fe^{3+}$$ als Zentralion und Thiocyanat-Ionen und Wasser-Molekülen als <mark style="background-color:yellow;">Liganden</mark>.
 
 {% hint style="info" %}
-Eine Komplex-Verbindung besteht aus einem Zentral-Ion und mehreren Liganden. Diese Teilchen werden in der Formel innerhalb _eckiger Klammern_ geschrieben. Die Wechselwirkung zwischen Zentral-Ion und Ligand heisst koordinative Bindung oder Komplex-Bindung.\
-
+Eine Komplex-Verbindung besteht aus einem Zentral-Ion und mehreren Liganden. Diese Teilchen werden in der Formel innerhalb _eckiger Klammern_ geschrieben. Die Wechselwirkung zwischen Zentral-Ion und Ligand heisst koordinative Bindung oder Komplex-Bindung.<br>
 {% endhint %}
 
 ### Wichtige Begriffe und ihre Definition
