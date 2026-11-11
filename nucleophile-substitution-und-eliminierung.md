@@ -1,4 +1,5 @@
 ---
+hidden: true
 cover: .gitbook/assets/Bildschirmfoto 2025-02-23 um 3.45.56 PM.png
 coverY: 0
 ---
