@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🫧 Molekülorbitale und organisch-chemische Reaktionen
 
 ## Benzol
