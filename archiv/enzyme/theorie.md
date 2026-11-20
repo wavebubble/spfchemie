@@ -42,7 +42,7 @@ Enzyme bestehen aus einer oder mehreren Ketten einzelner Bausteine. Es gibt 20 v
 
 Eine chemische Reaktion ist mit einer Bergwanderung zu vergleichen.
 
-![](https://cdn.mathpix.com/cropped/2024\_04\_07\_db753ba4cf571de0cd37g-009.jpg?height=632\&width=1195\&top\_left\_y=478\&top\_left\_x=290)
+<img src="https://cdn.mathpix.com/cropped/2024_04_07_db753ba4cf571de0cd37g-009.jpg?height=632&#x26;width=1195&#x26;top_left_y=478&#x26;top_left_x=290" alt="" width="375">
 
 Das Ziel liegt tiefer als der Start. Dazwischen liegt aber ein hoher Berg. Es kostet offensichtlich sehr viel Energie, diesen Berg zu erklimmen.
 
@@ -50,7 +50,7 @@ Den energetischen Verlauf einer Reaktion deuten die Chemiker ganz ähnlich:
 
 
 
-![](https://cdn.mathpix.com/cropped/2024\_04\_07\_db753ba4cf571de0cd37g-009.jpg?height=544\&width=1164\&top\_left\_y=1521\&top\_left\_x=249)
+<img src="https://cdn.mathpix.com/cropped/2024_04_07_db753ba4cf571de0cd37g-009.jpg?height=544&#x26;width=1164&#x26;top_left_y=1521&#x26;top_left_x=249" alt="" width="375">
 
 Während ein Wanderer von einem hohen Berg redet, spricht ein Chemiker von grosser Aktivierungsenergie einer chemischen Reaktion. Ein grosser Unterschied besteht in folgender Tatsache. Sie erinnern sich sicher noch an Ihre letzte Bergwanderung. Sowohl der Aufstieg, wie aber auch der Abstieg hat Sie Schweiss und Energie gekostet. Das ist bei einer chemischen Reaktion anders. Energie muss nur aufgewendet werden, um den "Berg" der Aktivierungsenergie zu erklimmen. Beim Abstieg wird diese Energie wieder freigegeben. In unserem Beispiel liegt das Niveau des Produktes tiefer als das des Ausgangsstoffes. Man muss zwar anfangs einen Aufstieg bewältigen, steigt dann aber auf ein tieferes Niveau ab. Insgesamt wird mehr Energie frei als aufgewendet werden musste (positive Energiebilanz). Diese Energie wird während der Reaktion freigesetzt.
 
@@ -58,7 +58,7 @@ Während ein Wanderer von einem hohen Berg redet, spricht ein Chemiker von gross
 
 Bildlich gesprochen ermöglicht das Enzym dem Wanderer einen weniger hohen Uebergang zu benutzen.
 
-![](https://cdn.mathpix.com/cropped/2024\_04\_07\_db753ba4cf571de0cd37g-010.jpg?height=344\&width=1208\&top\_left\_y=451\&top\_left\_x=338)
+<img src="https://cdn.mathpix.com/cropped/2024_04_07_db753ba4cf571de0cd37g-010.jpg?height=344&#x26;width=1208&#x26;top_left_y=451&#x26;top_left_x=338" alt="" width="375">
 
 Das Enzym ermöglicht einen Reaktionsweg mit kleinerer Aktivierungsenergie. Die Reaktion läuft folglich schneller ab. Bis zu 100'000x schneller!
 
@@ -102,7 +102,7 @@ Substrat(e) - aktives Zentrum - Produkt(e) - Enzym  und Enzym-Substrat-Komplex.
 
 1. Hydrolase:
 
-![](https://cdn.mathpix.com/cropped/2024\_04\_07\_db753ba4cf571de0cd37g-015.jpg?height=700\&width=1556\&top\_left\_y=524\&top\_left\_x=178)
+<img src="https://cdn.mathpix.com/cropped/2024_04_07_db753ba4cf571de0cd37g-015.jpg?height=700&#x26;width=1556&#x26;top_left_y=524&#x26;top_left_x=178" alt="" width="375">
 
 <details>
 
@@ -118,7 +118,7 @@ Enzym-Substrat-Komplex: 4
 
 2. Ligase:
 
-![](https://cdn.mathpix.com/cropped/2024\_04\_07\_db753ba4cf571de0cd37g-015.jpg?height=655\&width=1537\&top\_left\_y=1656\&top\_left\_x=179)
+<img src="https://cdn.mathpix.com/cropped/2024_04_07_db753ba4cf571de0cd37g-015.jpg?height=655&#x26;width=1537&#x26;top_left_y=1656&#x26;top_left_x=179" alt="" width="375">
 
 <details>
 
@@ -194,7 +194,7 @@ Dieser Befund wird auch in der folgenden Darstellung deutlich:
 
 Enzymaktivität
 
-![](https://cdn.mathpix.com/cropped/2024\_04\_07\_db753ba4cf571de0cd37g-019.jpg?height=1252\&width=1249\&top\_left\_y=1138\&top\_left\_x=525)
+<img src="https://cdn.mathpix.com/cropped/2024_04_07_db753ba4cf571de0cd37g-019.jpg?height=1252&#x26;width=1249&#x26;top_left_y=1138&#x26;top_left_x=525" alt="" width="375">
 
 Analoge Versuche mit entsprechenden Schlussfolgerungen könnten nun auch für die Protonenkonzentration durchgeführt werden. Für jede Enzymreaktion gibt es auch ein pH-Optimum.
 

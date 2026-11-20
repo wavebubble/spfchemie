@@ -38,7 +38,7 @@ Ein Orbital mit den Quantenzahlen n = 3, l = 2 sind also 3d-Orbitale.
 
 Die Aufenthaltswahrscheinlichkeiten kann man dreidimensional darstellen und erhält so unter- schiedlich geformte Orbitale. Da wir uns in der organischen Chemie fast nur mit den Elementen der 1. und 2. Periode (H, C, N, O) beschäftigen, können wir uns auf die Formen der s- und p-Orbitale beschränken (Animation: [https://www.chemtube3d.com/a-level-orbitals-all/)](https://www.chemtube3d.com/a-level-orbitals-all/\)): Man sieht, dass die s-Orbitale keine Knotenfläche besitzen, die p-Orbitale eine. So ausgerüstet
 
-![Abbildung 1: Formen der s- und p-Orbitale](../../.gitbook/assets/1)
+<img src="../../.gitbook/assets/1" alt="Abbildung 1: Formen der s- und p-Orbitale" width="375">
 
 können wir den nächsten und für die Chemie wichtigsten Schritt in Angriff nehmen, nämlich die chemische Bindung. Dafür gibt es zwei Theorien, die von einem unterschiedlichen Ansatz aus- gehen und auch eine verschiedene Sprache benutzen, mathematisch jedoch völlig kongruent sind.
 
@@ -71,7 +71,7 @@ Wir können jetzt die Verhältnisse im $$H_2$$-Molekül und im $$H^+$$ und $$He^
 
 Dazu verteilen wir die Elektronen nach den gleichen Besetzungsregeln wie bei den AOs auf die MOs.
 
-![-Molekül](<../../.gitbook/assets/3 (2)>)
+<img src="../../.gitbook/assets/3 (2)" alt="-Molekül" width="375">
 
 Es bildet sich ein bindendes _σ_ und antibindendes _σ\*_ MO. Beide Elektronen befinden sich im bindenden MO - sie bewirken den Zusammenhalt des Moleküls.
 
@@ -109,25 +109,25 @@ Die geeignete Weise lässt sich mit drei Kombinationsregeln ableiten:
 
 Die folgenden Abbildungen zeigen, wie p-Orbitale zu MOs kombiniert werden können:
 
-![Die rot eingefärbten p-Orbital können zur σ-Bindung überlappen, die anderen überlappen zur π- Bindung](../../.gitbook/assets/5)
+<img src="../../.gitbook/assets/5" alt="Die rot eingefärbten p-Orbital können zur σ-Bindung überlappen, die anderen überlappen zur π- Bindung" width="375">
 
-![Die p-Orbitale sind nicht in Phase, was zu einem antibindenden MO führt](<../../.gitbook/assets/6 (1)>)
+<img src="../../.gitbook/assets/6 (1)" alt="Die p-Orbitale sind nicht in Phase, was zu einem antibindenden MO führt" width="375">
 
-![Die p-Orbitale sind in Phase, was zu einem bindenden MO führt](<../../.gitbook/assets/7 (1)>)
+<img src="../../.gitbook/assets/7 (1)" alt="Die p-Orbitale sind in Phase, was zu einem bindenden MO führt" width="375">
 
 Die folgende Abbildung zeigt ungeeignete Möglichkeiten wie Orbitale überlappen können, ohne dass eine Bindung resultiert.
 
 Im nächsten Fall unterscheiden sich die Orbitale zu stark in ihrer Grösse. Dies ist der Fall bei _π_- Bindungen, wenn die benötigten AOs verschiedene Hauptquantenzahlen haben. Ein 2p-Orbital überlappt wesentlich besser mit einem anderen 2p-Orbital als mit einem 3p-Orbital. Ein weiterer Faktor ist die Symmetrie der Orbitale; diese muss bei zwei AOs übereinstimmen, damit eine Bindung gebildet wird.
 
-![Die p-Orbitale sind nicht in Phase, was zu einem antibindenden MO führt](<../../.gitbook/assets/8 (2)>)
+<img src="../../.gitbook/assets/8 (2)" alt="Die p-Orbitale sind nicht in Phase, was zu einem antibindenden MO führt" width="375">
 
-![Oben: p-Orbitale nicht in Phase, antibindend. Unten: p-Orbitale in Phase, binden zur π-Bindung](<../../.gitbook/assets/9 (2)>)
+<img src="../../.gitbook/assets/9 (2)" alt="Oben: p-Orbitale nicht in Phase, antibindend. Unten: p-Orbitale in Phase, binden zur π-Bindung" width="375">
 
 So kann z.B. ein px-Orbital nicht mit einem py-Orbital oder einem pz-Orbital kombinieren, da sie senkrecht zueinander stehen:
 
-![Ungeeignete (beide links) und geeignete Ausrichtung (rechts)](<../../.gitbook/assets/10 (2)>)
+<img src="../../.gitbook/assets/10 (2)" alt="Ungeeignete (beide links) und geeignete Ausrichtung (rechts)" width="375">
 
-![Überlappung bei gleicher Grösse (links) und unterschiedlicher Grösse (rechts)](<../../.gitbook/assets/11 (2)>)
+<img src="../../.gitbook/assets/11 (2)" alt="Überlappung bei gleicher Grösse (links) und unterschiedlicher Grösse (rechts)" width="375">
 
 Mit diesen Informationen können wir es einmal wagen, das MO-Diagramm eines einfachen zweiatomigen Moleküls wie Sauerstoff zu entwickeln. Dazu zeichnen wir zuerst das Energieniveau-Schema für jedes einzelne Sauerstoff-Atom auf. Danach kombinieren wir die AOs nach den Regeln, die oben dargestellt sind. Im letzten Schritt füllen wir die MOs mit Elektronen auf und berechnen die Bindungsordnung.
 

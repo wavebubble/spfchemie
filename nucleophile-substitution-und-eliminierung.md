@@ -23,11 +23,9 @@ Eine Abgangsgruppe ist ein Substituent, der seine Bindungselektronen anzieht und
 
 ## Theorie zu SN1, SN2, E1, E2
 
-{% file src=".gitbook/assets/NucleophileSubstitution.pdf" %}
+{% file src=".gitbook/assets/Die nucleophile Substitution.pdf" %}
 
 ## Übung zu SN1, SN2
 
-{% file src=".gitbook/assets/Aufgaben zu SN1 und SN2_2025.pdf" %}
-
-
+{% file src=".gitbook/assets/NucleophileSubstitution (1).pdf" %}
 
