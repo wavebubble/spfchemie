@@ -19,6 +19,8 @@ Ein <mark style="background-color:yellow;">Elektrophil</mark> ist ein elektronen
 
 Eine Abgangsgruppe ist ein Substituent, der seine Bindungselektronen anzieht und ein neues Teilchen bildet.
 
+{% embed url="https://www.nanoo.tv/link/v/btmECGzN" %}
+
 
 
 ## Theorie zu SN1, SN2, E1, E2
